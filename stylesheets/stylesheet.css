@@ -199,6 +199,9 @@ blockquote {
 ul, ol, dl {
   margin-bottom: 15px
 }
+p  {
+   display: inline-block
+}
 
 ul {
   list-style-position: inside;
